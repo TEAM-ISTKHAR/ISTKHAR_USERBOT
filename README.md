@@ -25,14 +25,14 @@
 
 <p align="center"## 𝖣𝖤𝖯𝖫𝖮𝖸 𝖳𝖮 𝖱𝖤𝖭𝖣𝖤𝖱
 
-[![DEPLOY TO RENDER](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAMPURVI/ALPHA_USERBOT)
+[![DEPLOY TO RENDER](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAM-ISTKHAR/ISTKHAR_USERBOT)
 
 ## String Session
 
 <p align="center"><a href="https://t.me/istkhar_string_sesion_bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAMPURVI&repo=ALPHA_USERBOT&theme=flag-india)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-ISTKHAR&repo=THUNDER_USERBOT&theme=flag-india)
 
 
 <h3 align="center">
@@ -48,4 +48,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE ISTKHAR MUSIC™](https://github.com/TEAMPURVI) ғᴏʀ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE ISTKHAR MUSIC™](https://github.com/TEAM-ISTKHAR) ғᴏʀ [𝖳HE ISTKHAR MUSIC™](https://github.com/TEAM-ISTKHAR/MUSARRAT) </b>
