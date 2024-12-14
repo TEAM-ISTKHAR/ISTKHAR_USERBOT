@@ -1,4 +1,4 @@
-# 𝗧𝗛𝗨𝗡𝗗𝗘𝗥 𝗨𝗦𝗘𝗥𝗕𝗢𝗧
+# 𝗧𝗛𝗨𝗡𝗗𝗘𝗥X𝗨𝗦𝗘𝗥𝗕𝗢𝗧
 
 <p align="center">⚡️𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧⚡️</p>
 
@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🇮🇳+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗜𝗦𝗧𝗞𝗛𝗔𝗥+𝗞𝗜𝗡𝗚+𝗕𝗜𝗛𝗔𝗥+🇮🇳+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐓ᴇᴀᴍ 𝐈sᴛᴋʜᴀʀ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://ll_THUNDER_lll"><img src="https://telegra.ph/file/40b4006ed148409ba532b.jpg" width="400"></a></p>
+<p align="center"><a href="https://ll_THUNDER_lll"><img src="https://files.catbox.moe/4ij9ru.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
